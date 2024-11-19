@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/MLFLOW_TEST/mlruns/0/74c293906a8c40a39760c5b9b1bb0178/artifacts
+end_time: 1731988450059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74c293906a8c40a39760c5b9b1bb0178
+run_name: traveling-carp-923
+run_uuid: 74c293906a8c40a39760c5b9b1bb0178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731988446066
+status: 3
+tags: []
+user_id: Rutu

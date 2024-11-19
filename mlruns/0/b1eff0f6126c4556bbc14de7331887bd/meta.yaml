@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/MLFLOW_TEST/mlruns/0/b1eff0f6126c4556bbc14de7331887bd/artifacts
+end_time: 1731989689156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1eff0f6126c4556bbc14de7331887bd
+run_name: likeable-calf-620
+run_uuid: b1eff0f6126c4556bbc14de7331887bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731989685998
+status: 3
+tags: []
+user_id: Rutu

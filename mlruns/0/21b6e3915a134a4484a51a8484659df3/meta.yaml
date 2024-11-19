@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/MLFLOW_TEST/mlruns/0/21b6e3915a134a4484a51a8484659df3/artifacts
+end_time: 1731988039921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21b6e3915a134a4484a51a8484659df3
+run_name: valuable-cub-492
+run_uuid: 21b6e3915a134a4484a51a8484659df3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731988035564
+status: 3
+tags: []
+user_id: Rutu
