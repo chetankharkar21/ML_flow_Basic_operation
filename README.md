@@ -34,6 +34,7 @@ run the following command on EC2 machine
 bucket name : mlflow-buc2001 
 
 * commands: 
+
 sudo apt update
 sudo apt install python3-pip 
 sudo apt install pipenv
