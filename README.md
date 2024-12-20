@@ -33,18 +33,18 @@ run the following command on EC2 machine
 
 bucket name : mlflow-buc2001 
 
-* commands: 
+* commands:
+  - sudo apt update
+  - sudo apt install python3-pip
+  - sudo apt install pipenv
+  - mkdir mlflow
+  - cd mlflow
+  - pipenv install mlflow
+  - pipenv install awscli
+  - pipenv install boto3
+  - pipenv shell
+  - aws configure
 
-sudo apt update
-sudo apt install python3-pip 
-sudo apt install pipenv
-mkdir mlflow
-cd mlflow
-pipenv install mlflow
-pipenv install awscli
-pipenv install boto3
-pipenv shell
-aws configure
 
 * optional:
 "sudo apt install python3.12-venv
