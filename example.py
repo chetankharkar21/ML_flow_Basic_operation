@@ -77,8 +77,14 @@ if __name__ == "__main__":
         #predictions = lr.predict(train_x)
         #signature = infer_signature(train_x, predictions)
 
-        remote_server_uri = "https://dagshub.com/chetankharkar21/ML_flow_Basic_operation.mlflow"
+        # for dagshub 
+        '''remote_server_uri = "https://dagshub.com/chetankharkar21/ML_flow_Basic_operation.mlflow"
+        mlflow.set_tracking_uri(remote_server_uri)'''
+
+        # for AWS server 
+        remote_server_uri = "http://ec2-3-149-230-242.us-east-2.compute.amazonaws.com:5000/"
         mlflow.set_tracking_uri(remote_server_uri)
+
 
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
 
